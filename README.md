@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Alix, I'm currently at 42 Lyon. I like dev and I'm very interesting in devops and free softwares.
 
 <details>
-<summary>📫 **Contact Me:**</summary>
+<summary>📫 Contact Me:</summary>
 <br>
 
 - 📧 Email: [aartiges@student.42lyon.fr](mailto:aartiges@student.42lyon.fr)
