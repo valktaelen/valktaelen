@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valktaelen&theme=nord_dark) 
 
-<div align="center">
-  <img src='https://github-readme-stats.vercel.app/api?username=valktaelen&show_icons=true&theme=dark&count_private=true&line_height=40' />
-</div>
-<div align="center">
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=valktaelen&theme=dark&hide_langs_below=4' />
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valktaelen&theme=nord_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=valktaelen&theme=nord_dark)
+
+![](https://komarev.com/ghpvc/?username=valktaelen)
